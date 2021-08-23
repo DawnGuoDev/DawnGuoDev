@@ -1,6 +1,9 @@
 ## 简介
 
-目前，是一个菜鸡，没啥高光时刻，没啥 NB 项目。但是，会想尽办法，尽可能多地“贴瓷砖”。
+没啥高光时刻，没啥 NB 项目，正准备开始在 github 里贴瓷砖。
 
-## 个人博客
-https://blog.dawnguo.cn
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawnguodev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## 友情链接
+[个人博客](https://blog.dawnguo.cn )
